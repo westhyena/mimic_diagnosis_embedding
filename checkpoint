@@ -1,0 +1,6 @@
+model_checkpoint_path: "embedding-9"
+all_model_checkpoint_paths: "embedding-5"
+all_model_checkpoint_paths: "embedding-6"
+all_model_checkpoint_paths: "embedding-7"
+all_model_checkpoint_paths: "embedding-8"
+all_model_checkpoint_paths: "embedding-9"
